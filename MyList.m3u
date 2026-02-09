@@ -1,2 +1,56 @@
-#EXTINF:-1,NOW TV
+#EXTINF:-1 tvg-name="NOW TV"
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-name="NOW TV(2)"
+https://goldvod.org/live/hpgdiscoo/123456/3.m3u8
+#EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png"
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="MINIKA GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/MinikaGO_logo.png/1536px-MinikaGO_logo.png?20200428070543"
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
+#EXTINF:-1 tvg-name="TRT 1 HD" tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png"
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-name="TRT HABER HD" tvg-logo="https://logowik.com/content/uploads/images/trt-haber5539.jpg"
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png"
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png"
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png"
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png"
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/Bj/11896/Thumbnail.png?v=636996527021886315"
+https://ds.ayakkabiparti.lol/bbc/index.m3u8
+#EXTINF:-1 tvg-name="POWER TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png"
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KRAL POP" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png"
+http://dygvideo.dygdigital.com/live/hls/kralpop
+#EXTINF:-1 tvg-name="NR1 ASK"
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 Türk HD"
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="POWER TURK SLOW"
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-name="TV 8,5 HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_5_4or.png"
+https://goldvod.org/live/hpgdiscoo/123456/20.m3u8
+#EXTINF:-1 tvg-name="TEVE2 4K" tvg-logo="https://static.teve2.com.tr/assets/img/teve2logo.png?v=1"
+https://goldvod.org/live/hpgdiscoo/123456/9519.m3u8
+#EXTINF:-1 tvg-name="Teve2" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/teve2_jdi.png"
+https://goldvod.org/live/hpgdiscoo/123456/19.m3u8
+#EXTINF:-1 tvg-name="SHOW TV 4K" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png"
+https://goldvod.org/live/hpgdiscoo/123456/521.m3u8
+#EXTINF:-1 tvg-name="SHOW TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png"
+https://goldvod.org/live/hpgdiscoo/123456/6.m3u8
+#EXTINF:-1 tvg-name="Sinema Tv Aile" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaile_logo_B2AC3808-8447-4546-80EF-EA50B34D6089.png"
+http://65.108.239.207/sinemaaile/index.m3u8
+#EXTINF:-1 tvg-name="Sinema Tv Aksiyon" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaksiyon_logo_ECCA8162-A617-4236-82AD-BE14CFBE4C8D.png"
+http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="MovieSmart Turk" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443"
+https://ds.ayakkabiparti.lol/mvturk/index.m3u8
+#EXTINF:-1 tvg-name="Kanal D HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png"
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+#EXTINF:-1 tvg-name="STAR TV FHD" tvg-logo="https://hizlitv.org/kanallar/star-tv.png"
+https://goldvod.org/live/hpgdiscoo/123456/151.m3u8
+#EXTINF:-1 tvg-name="Halk TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png"
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
