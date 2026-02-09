@@ -32,7 +32,7 @@ https://goldvod.org/live/hpgdiscoo/123456/20.m3u8
 #EXTINF:-1 tvg-name="TEVE2 4K",TEVE2 4K
 https://goldvod.org/live/hpgdiscoo/123456/9519.m3u8
 #EXTINF:-1 tvg-name="Teve2",Teve2
-https://goldvod.org/live/hpgdiscoo/123456/19.m3u8
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOW TV 4K",SHOW TV 4K
 https://goldvod.org/live/hpgdiscoo/123456/521.m3u8
 #EXTINF:-1 tvg-name="SHOW TV HD",SHOW TV HD
@@ -53,10 +53,3 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-name="NTV",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-name="Kanal 7",Kanal 7
-https://goldvod.org/live/hpgdiscoo/123456/163.m3u8
-#EXTINF:-1 tvg-name="FOX HD",FOX HD
-https://goldvod.org/live/hpgdiscoo/123456/7.m3u8
-#EXTINF:-1 tvg-name="TV1000 Türk",TV1000 Türk
-http://livetv.powerapp.com.tr/tv1000turk/movie.smil/playlist.m3u8
-... (continues for every channel in the source)
