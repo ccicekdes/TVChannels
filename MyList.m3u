@@ -53,3 +53,11 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-name="NTV",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-name="HISTORY HD",HISTORY HD
+https://ds.ayakkabiparti.lol/history/index.m3u8
+#EXTINF:-1 tvg-name="Tabii",Tabii
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-name="Tabii Spor 7",Tabii Spor 7
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8?app=web
+#EXTINF:-1 tvg-name="TV 100",TV 100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
